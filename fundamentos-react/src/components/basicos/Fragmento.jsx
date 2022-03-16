@@ -1,6 +1,6 @@
 import React from "react";
 
-export function Fragmento(props){
+export default function Fragmento(props){
 
     return (
 
@@ -11,7 +11,7 @@ export function Fragmento(props){
 
         </div>
 
-    )
+    );
 
 }
 

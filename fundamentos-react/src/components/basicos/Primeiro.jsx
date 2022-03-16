@@ -1,7 +1,7 @@
-import React from 'react'
+import React from 'react';
 export default function Primeiro(){
 
-    const msg = 'Seja bem vindo'
+    const msg = 'Seja bem vindo';
     return (
     <div>
         
@@ -9,6 +9,6 @@ export default function Primeiro(){
         <p>{msg}</p>
         
         </div>
-        )
+        );
 
 }
